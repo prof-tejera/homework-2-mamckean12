@@ -3,6 +3,12 @@
 
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
 
+## URL to live application
+TBD
+
+## What code editor are you using?
+Visual Studio Code
+
 ## Step 1
 - Install `npx` following the instructions here: https://www.npmjs.com/package/npx
 - run `npx create-react-app my-first-app` to create the React application
