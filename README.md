@@ -4,7 +4,7 @@
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
 
 ## URL to live application
-TBD
+https://prof-tejera.github.io/homework-2-mamckean12/
 
 ## What code editor are you using?
 Visual Studio Code
@@ -52,3 +52,9 @@ Edit this file (README.md) and complete the following:
 - What code editor are you using?
 
 That is all!
+
+## URL to live application
+https://prof-tejera.github.io/homework-2-mamckean12/
+
+## What code editor are you using?
+Visual Studio Code
