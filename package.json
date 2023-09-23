@@ -2,7 +2,7 @@
   "name": "my-first-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prof-tejera.github.io/homework-2-mamckean12",
+  "homepage": "https://prof-tejera/homework-2-mamckean12",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
