@@ -3,12 +3,6 @@
 
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
 
-## URL to live application
-https://prof-tejera.github.io/homework-2-mamckean12/
-
-## What code editor are you using?
-Visual Studio Code
-
 ## Step 1
 - Install `npx` following the instructions here: https://www.npmjs.com/package/npx
 - run `npx create-react-app my-first-app` to create the React application
@@ -48,13 +42,7 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- What code editor are you using?
+- URL to live application: https://prof-tejera.github.io/homework-2-mamckean12/
+- What code editor are you using? Visual Studio Code
 
 That is all!
-
-## URL to live application
-https://prof-tejera.github.io/homework-2-mamckean12/
-
-## What code editor are you using?
-Visual Studio Code
